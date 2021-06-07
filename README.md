@@ -2,7 +2,7 @@
 
 ## How to use it:
 
-You can open this repository as a complete android studio project.
+You can open this repository as a complete android studio project. It is purtly written with Kotlin.
 
 ## About:
 
